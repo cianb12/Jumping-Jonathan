@@ -10,7 +10,7 @@ var keypressed = false;
 
 // player image
 var playerImage = new Image();
-playerImage.src = "imgs/mario.png";
+playerImage.src = "mario.png";
 
 
 //single obstacle
